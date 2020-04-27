@@ -1,8 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
-
+## This is a description of the function
 rm (list =ls())
 
 makeCacheMatrix <- function(x = matrix()){
