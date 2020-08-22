@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588042027057.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2361950252",
+    "id" : "5D47D8F4",
+    "lastKnownWriteTime" : 1588042035,
+    "last_content_update" : 1588042035619,
+    "path" : "C:/Users/missm/OneDrive/Desktop/Data Science/datasciencejohnhopkinscoursera/Repositories/ProgrammingAssignment2/cachematrix.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "31,1",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
